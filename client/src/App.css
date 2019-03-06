@@ -1,0 +1,25 @@
+body{
+  background-color: #fafafa;
+  font-family: 'Open Sans', sans-serif;
+}
+
+button:focus{
+  outline: 0;
+  text-decoration: none
+}
+
+.PrimarySearchAppBar-root-1{
+  height: 20px;
+}
+
+.styleforLink{
+  outline: 0;
+}
+
+a:hover { 
+  text-decoration: none; 
+}
+
+.react-swipeable-view-container{
+  height: max-content;
+}
